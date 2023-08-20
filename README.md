@@ -1,6 +1,6 @@
 # Project: Automation with Python - Spreadsheet Operations
 
-##### This project involves automating tasks related to spreadsheet data using Python. The following exercises are performed:
+##### This project involves automating tasks related to spreadsheet data using Python. 
 
 ##### Exercise 1: List Companies with Product Count
 - Retrieve and list companies along with the count of their respective products.
@@ -17,7 +17,7 @@
 
 # Project: Countdown Application
 
-##### In this project, an application is developed to interactively calculate and display the time remaining until a given deadline. The steps to implement this project include:
+##### In this project, an application is developed to interactively calculate and display the time remaining until a given deadline. 
 
 ##### Get User Input: Goal and Deadline
 - Prompt the user to input their goal and the deadline for the countdown.
